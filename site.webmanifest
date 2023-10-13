@@ -1,0 +1,14 @@
+{
+    "name": "Gym App",
+    "short_name": "Gym App",
+    "icons": [
+        {
+            "src": "/android-chrome-48x48.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#cde1e6",
+    "background_color": "#cde1e6",
+    "display": "standalone"
+}
